@@ -3,5 +3,5 @@ function giveAlert1(){
 }
 
 function giveAlert2(){
-    alert(`jaa bhai`);
+    alert(`Understood now`);
 }
