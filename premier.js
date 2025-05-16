@@ -1,5 +1,5 @@
 function giveAlert1(){
-    alert(`Bhaag bsdk`);
+    alert(`Not dynamic`);
 }
 
 function giveAlert2(){
